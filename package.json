@@ -1,0 +1,12 @@
+{
+  "name": "@artale/pi-diff-guard",
+  "version": "1.0.0",
+  "description": "Edit safety for Pi. Preview diffs before applying, block large deletions, track all file changes.",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "author": "artale",
+  "repository": { "type": "git", "url": "https://github.com/arosstale/pi-diff-guard.git" },
+  "files": ["src/extension.ts"],
+  "pi": { "extensions": ["src/extension.ts"] },
+  "peerDependencies": { "@mariozechner/pi-coding-agent": "*" }
+}
