@@ -1,7 +1,7 @@
 {
   "name": "@artale/pi-diff-guard",
-  "version": "1.0.0",
-  "description": "Edit safety for Pi. Preview diffs before applying, block large deletions, track all file changes.",
+  "version": "1.1.0",
+  "description": "Edit awareness for Pi. Tracks file changes, warns on large deletions, shows edit heatmap. /diffguard report for hotspot analysis.",
   "keywords": ["pi-package"],
   "license": "MIT",
   "author": "artale",
